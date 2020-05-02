@@ -13,6 +13,7 @@ Ofrece las siguientes ventajas:
 Esta API está desarrollada en usando las siguientes tecnologias:
   - Python 3.7 
   - Flask
+  - Tesseract OCR
   - BeautifulSoup
 
 Instalar las depencias usando el siguiente comando:
