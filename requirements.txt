@@ -7,7 +7,7 @@ idna==2.9
 itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
-Pillow==7.1.2
+Pillow==9.0.0
 pytesseract==0.3.4
 requests==2.23.0
 soupsieve==2.0
